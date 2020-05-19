@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React KMN hey
+          I change after Pull request
         </a>
       </header>
     </div>
